@@ -1,0 +1,5 @@
+package connectMysql;
+
+public class ConnectMysql {
+
+}
